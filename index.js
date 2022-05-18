@@ -500,5 +500,5 @@ let output = diff(originalHTML, newHTML);
 
 // Show HTML diff output as HTML
 document.getElementById('output').innerHTML = output;
-document.getElementById('outputOriginal').innerHTML = originalHTML;
-document.getElementById('outputNew').innerHTML = newHTML;
+//document.getElementById('outputOriginal').innerHTML = originalHTML;
+//document.getElementById('outputNew').innerHTML = newHTML;
